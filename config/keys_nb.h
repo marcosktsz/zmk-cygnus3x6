@@ -1,6 +1,7 @@
 /*
  * Localized Keys for Norwegian
  *
+ *
  * This file was generated from data with the following license:
  *
  * UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
